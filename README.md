@@ -47,8 +47,8 @@
 <h3>Installation</h3>
         <ol class="list-decimal pl-5">
             <li><strong>Clone the repository:</strong>
-                <pre><code>git clone &lt;repository-url&gt;
-cd subscription-management-api</code></pre>
+                <pre><code>git clone https://github.com/dokania-piyush/SubscriptionTracker.git
+cd SubscriptionTracker</code></pre>
             </li>
             <li><strong>Install dependencies:</strong>
                 <pre><code>npm install</code></pre>
